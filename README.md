@@ -1,0 +1,2 @@
+# Sending-Receiving-SMS-From-GSM-Module-SIM800L-using-Esp32
+ntegrated the GSM Module with ESP32 to send and receive SMS using AT commands. For sending SMS, we established interfacing, set text mode, and used CMGS. For receiving messages, we enabled notifications and read incoming SMS with time, date, and sender number. Useful for IoT, alert-based systems without internet, and helpful in navigation.
